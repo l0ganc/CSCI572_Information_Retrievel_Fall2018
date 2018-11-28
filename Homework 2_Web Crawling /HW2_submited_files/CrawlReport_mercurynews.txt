@@ -1,0 +1,48 @@
+Name:
+USC ID:
+News site crawled: mercurynews.com
+
+
+Fetch Statistics
+================ 
+# fetches attempted: 20000
+# fetches succeeded: 13534
+# fetches failed or aborted: 6466
+
+
+
+Outgoing URLs: 
+================
+Total URLs extracted: 1926173
+# unique URLs extracted: 91891
+# unique URLs within News Site: 69708
+# unique URLs outside News Site: 22183
+
+
+Status Codes:
+================
+200 OK: 13534
+301 Moved Permanently: 536
+302 Found: 5800
+400 BadRequest: 43
+401 Unauthorized: 0
+403 Forbidden: 0
+404 Not Found: 87
+
+
+File Sizes: 
+================
+< 1KB: 1
+1KB ~ <10KB: 1
+10KB ~ <100KB: 5524
+100KB ~ <1MB: 8008
+>= 1MB: 0
+
+
+Content Types: 
+================
+text/html: 13503
+image/gif: 0
+image/jpeg: 0
+image/png: 2
+application/pdf: 0
